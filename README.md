@@ -314,6 +314,7 @@ Or you can create a  <a href="https://github.com/ZeroOctave/ZeroOctave-Javascrip
 <div align="center">
 
 ### Show some ❤️ by starring⭐ this awesome Repository!
+### thank you for this repo. 
 
 </div>
 
